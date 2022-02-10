@@ -1,0 +1,23 @@
+5 Project Ideas
+
+1. Leading Causes of Deaths in NYC (2007-2011)
+    - Determine if the cause of death each year is different 
+      or if there is a trend in the cause of deaths depending on race or gender
+    Dataset: https://www.kaggle.com/yamqwe/nyc-leading-causes-of-deathe
+
+2. Social Influence on Shopping
+    - Discover which social media applications are the most effective at getting users to buy
+    Dataset: https://www.kaggle.com/yamqwe/social-influence-on-shoppinge
+
+3. Cervical Cancer vs Demographic, Habits, MedHistory
+    - Determine if number of pregnancies, smoking habits, or number of partners increases risk for cervical cancer 
+    Dataset: https://www.kaggle.com/yamqwe/cervical-cancer-risk-factorse
+
+4. Student Alcohol Consumption
+    - Determine common factors among students who drank alcohol 
+    Dataset: https://www.kaggle.com/uciml/student-alcohol-consumption?select=student-mat.csv
+
+5. Drug overdose deaths
+    - Determine the changes in deaths over the course of a year/years to predict possible 
+    overdose deaths in 2022, explain the trends and why drug overdose is becoming a huge issue
+    Dataset: https://www.cdc.gov/drugoverdose/deaths/index.html
